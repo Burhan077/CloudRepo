@@ -1,0 +1,8 @@
+{
+    "name": "Burhan Cloud Repo",
+    "description": "Custom Movies and Sports Provider",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Burhan077/CloudRepo/main/plugins.json"
+    ]
+}
