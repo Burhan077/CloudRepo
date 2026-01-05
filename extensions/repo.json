@@ -3,6 +3,6 @@
     "description": "Movie Provider Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Burhan077/CloudRepo/extensions/build/plugins.json"
+      "https://raw.githubusercontent.com/Burhan077/CloudRepo/refs/heads/main/extensions/build/plugin.json"
     ]
 }
