@@ -1,8 +1,0 @@
-{
-    "name": "Movies Repo",
-    "description": "Movie Provider Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/Burhan077/CloudRepo/refs/heads/main/extensions/build/plugin.json"
-    ]
-}
