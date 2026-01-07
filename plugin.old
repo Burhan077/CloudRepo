@@ -1,25 +1,16 @@
 [
-    {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
-        "jarFileSize": 371450,
+        {
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 67511,
+        "repositoryUrl": "https://github.com/self-similarity/MegaRepo",
+        "fileSize": 6929,
         "status": 1,
         "language": "en",
-        "authors": [
-            "Hexated,Phisher98"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 9,
-        "internalName": "Anichi",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.cs3",
-        "name": "Anichi"
+        "authors": [],
+        "version": 2,
+        "internalName": "MegaProvider",
+        "description": "This plugin adds all repositories each time the app is opened. Uninstall after one run if you do not want all repositories. Does not automatically refresh the repository list.",
+        "url": "https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/MegaProvider.cs3",
+        "name": "MegaProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
